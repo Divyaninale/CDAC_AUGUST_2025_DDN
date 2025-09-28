@@ -1,0 +1,36 @@
+Largest Element
+Second Largest Element 
+Smallest Element 
+Second Smallest Element
+Remove Dublicates
+Check Sorted or not
+Rotate the array by K elements
+Moves zero to the end
+Lenear search
+Union of two array
+Intersection of two array
+Find missing elements
+max consective 1's
+Find the number appearing twice in array
+Longest subarray with K sum
+2 sum problem 
+sort an array of 1s,2s,0s
+Majority elements
+Maximum subarray sum
+rearrange array element by sign
+Buy and sell stocks
+next pemutation
+Leaders in array
+Longest consecutive sequence
+set matrix zero
+rotate matrix zeros
+spiral matrix
+count subarray sum
+pascal triagle
+3 sum
+4 sum
+merge two sorted array
+repeating missing element
+count inversion
+reverse pair
+maximum product subarray
